@@ -2,12 +2,14 @@
 
 视频数据集
 https://pan.baidu.com/s/1O6bdhyKXIhJasvDc5aPtMQ?pwd=7g2m
+
 图片数据集
 通过网盘分享的文件：1s1fps.zip
 链接: https://pan.baidu.com/s/1orFBSyna0jOi20KjShouag?pwd=dtn7 提取码: dtn7
 
 目标检测
 先看官方文档，读懂参数
+
 PaddlePaddle/PaddleYOLO: 🚀🚀🚀 YOLO series of PaddlePaddle implementation, PP-YOLOE+, RT-DETR, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv10, YOLO11, YOLOX, YOLOv5u, YOLOv7u, YOLOv6Lite, RTMDet and so on. 🚀🚀🚀 (github.com)
 
 
